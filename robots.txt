@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsusetzky.github.io/noah/sitemap-index.xml
